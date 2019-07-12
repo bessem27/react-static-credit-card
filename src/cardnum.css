@@ -1,0 +1,28 @@
+.text1{
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    margin: -100px 0px; 
+    
+}
+.text3{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30px;
+    margin: -300;
+    position: relative;
+    top: -100px;
+    left: 50px;
+}
+.text4{ 
+    color:white;
+} 
+
+.text2{
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    
+    margin: 110px 50px;   
+}

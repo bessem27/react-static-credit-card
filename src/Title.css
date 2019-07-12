@@ -1,0 +1,8 @@
+.Title{
+    color: rgb(255, 250, 240);
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    justify-content: flex-end;
+    margin:0px 150px;
+}
